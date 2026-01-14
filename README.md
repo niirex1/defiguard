@@ -1,7 +1,15 @@
-# DeFiGuard (CCS Artifact Bundle)
+# DeFiGuard (CCS Artifact)
 
-This repository is the **reproducibility package** for the DeFiGuard manuscript (CCS submission).
-It follows the artifact style of the included reference repos (CLUE, TIPSO) while keeping the build lightweight.
+This repository contains the **CCS artifact bundle** for the DeFiGuard paper, *“DeFiGuard: An Advanced Multi-Agent System for Cross-Contract Vulnerability Detection in DeFi Protocols.”*  
+It is designed for **deterministic, reviewer-centric reproduction** of the paper’s reported tables and figures from the included CSV datasets and raw evaluation logs.
+
+The artifact provides:
+- a lightweight Python package (`defiguard`) with fixed-seed evaluation entry points,
+- CSV-only datasets for **DeFiIncidents-CC**, **DeFiSynth-Proto**, and **DeFiZero**, and
+- scripts that regenerate the paper outputs under `results/paper/` (tables, figures, and a summary).
+
+The repository mirrors the organization and usability conventions of the included reference artifacts (CLUE, TIPSO) while avoiding heavyweight dependencies and excluding any weaponized exploit payloads or live-target tooling.
+
 
 The artifact supports two use cases:
 
