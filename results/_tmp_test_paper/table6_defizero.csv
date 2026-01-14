@@ -1,0 +1,6 @@
+Method,RCA,ETD
+David et al. [10],0.32,0.1
+DeFiGuard (Full),0.95,0.55
+GPTScan [29],0.3,0.08
+LLM-SmartAudit (TA) [33],0.37,0.14
+PropertyGPT [19],0.34,0.11

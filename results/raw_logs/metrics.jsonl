@@ -1,0 +1,1266 @@
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC001", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC001", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC001", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC001", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC001", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC001", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC001", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC001", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC001", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC001", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC001", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC002", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC002", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC002", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC002", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC002", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC002", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC002", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC002", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC002", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC002", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC002", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC003", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC003", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC003", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC003", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC003", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC003", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC003", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC003", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC003", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC003", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC003", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC004", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC004", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC004", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC004", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC004", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC004", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC004", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC004", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC004", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC004", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC004", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC005", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC005", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC005", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC005", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC005", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC005", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC005", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC005", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC005", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC005", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC005", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC006", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC006", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC006", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC006", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC006", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC006", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC006", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC006", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC006", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC006", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC006", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC007", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC007", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC007", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC007", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC007", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC007", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC007", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC007", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC007", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC007", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC007", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC008", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC008", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC008", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC008", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC008", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC008", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC008", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC008", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC008", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC008", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC008", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC009", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC009", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC009", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC009", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC009", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC009", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC009", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC009", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC009", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC009", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC009", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC010", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC010", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC010", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC010", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC010", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC010", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC010", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC010", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC010", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC010", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC010", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC011", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC011", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC011", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC011", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC011", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC011", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC011", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC011", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC011", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC011", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC011", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC012", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC012", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC012", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC012", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC012", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC012", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC012", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC012", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC012", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC012", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC012", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC013", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC013", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC013", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC013", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC013", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC013", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC013", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC013", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC013", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC013", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC013", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC014", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC014", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC014", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC014", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC014", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC014", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC014", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC014", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC014", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC014", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC014", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC015", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC015", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC015", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC015", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC015", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC015", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC015", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC015", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC015", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC015", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC015", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC016", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC016", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC016", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC016", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC016", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC016", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC016", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC016", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC016", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC016", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC016", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC017", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC017", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC017", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC017", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC017", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC017", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC017", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC017", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC017", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC017", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC017", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC018", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC018", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC018", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC018", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC018", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC018", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC018", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC018", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC018", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC018", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC018", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC019", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC019", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC019", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC019", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC019", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC019", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC019", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC019", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC019", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC019", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC019", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC020", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC020", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC020", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC020", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC020", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC020", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC020", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC020", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC020", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC020", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC020", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC021", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC021", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC021", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC021", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC021", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC021", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC021", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC021", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC021", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC021", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC021", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC022", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC022", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC022", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC022", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC022", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC022", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC022", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC022", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC022", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC022", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC022", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC023", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC023", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC023", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC023", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC023", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC023", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC023", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC023", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC023", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC023", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC023", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC024", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC024", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC024", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC024", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC024", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC024", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC024", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC024", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC024", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC024", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC024", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC025", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC025", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC025", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC025", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC025", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC025", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC025", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC025", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC025", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC025", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC025", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC026", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC026", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC026", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC026", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC026", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC026", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC026", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC026", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC026", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC026", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC026", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC027", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC027", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC027", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC027", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC027", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC027", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC027", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC027", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC027", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC027", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC027", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC028", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC028", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC028", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC028", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC028", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC028", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC028", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC028", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC028", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC028", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC028", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC029", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC029", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC029", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC029", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC029", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC029", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC029", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC029", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC029", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC029", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC029", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC030", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC030", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC030", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC030", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC030", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC030", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC030", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC030", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC030", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC030", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC030", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC031", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC031", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC031", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC031", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC031", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC031", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC031", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC031", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC031", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC031", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC031", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC032", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC032", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC032", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC032", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC032", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC032", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC032", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC032", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC032", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC032", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC032", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC033", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC033", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC033", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC033", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC033", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC033", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC033", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC033", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC033", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC033", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC033", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC034", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC034", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC034", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC034", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC034", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC034", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC034", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC034", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC034", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC034", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC034", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC035", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC035", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC035", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC035", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC035", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC035", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC035", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC035", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC035", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC035", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC035", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC036", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC036", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC036", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC036", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC036", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC036", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC036", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC036", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC036", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC036", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC036", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC037", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC037", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC037", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC037", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC037", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC037", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC037", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC037", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC037", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC037", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC037", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC038", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC038", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC038", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC038", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC038", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC038", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC038", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC038", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC038", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC038", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC038", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC039", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC039", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC039", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC039", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC039", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC039", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC039", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC039", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC039", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC039", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC039", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC040", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC040", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC040", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC040", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC040", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC040", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC040", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC040", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC040", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC040", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC040", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC041", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC041", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC041", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC041", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC041", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC041", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC041", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC041", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC041", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC041", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC041", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC042", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC042", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC042", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC042", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC042", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC042", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC042", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC042", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC042", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC042", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC042", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC043", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC043", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC043", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC043", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC043", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC043", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC043", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC043", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC043", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC043", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC043", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC044", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC044", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC044", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC044", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC044", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC044", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC044", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC044", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC044", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC044", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC044", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC045", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC045", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC045", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC045", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC045", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC045", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC045", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC045", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC045", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC045", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC045", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC046", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC046", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC046", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC046", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC046", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC046", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC046", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC046", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC046", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC046", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC046", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC047", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC047", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC047", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC047", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC047", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC047", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC047", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC047", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC047", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC047", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC047", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC048", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC048", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC048", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC048", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC048", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC048", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC048", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC048", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC048", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC048", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC048", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC049", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC049", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC049", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC049", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC049", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC049", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC049", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC049", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC049", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC049", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC049", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC050", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC050", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC050", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC050", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC050", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC050", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC050", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC050", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC050", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC050", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC050", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC051", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC051", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC051", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC051", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC051", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC051", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC051", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC051", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC051", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC051", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC051", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC052", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC052", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC052", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC052", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC052", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC052", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC052", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC052", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC052", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC052", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC052", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC053", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC053", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC053", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC053", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC053", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC053", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC053", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC053", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC053", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC053", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC053", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC054", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC054", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC054", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC054", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC054", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC054", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC054", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC054", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC054", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC054", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC054", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC055", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC055", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC055", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC055", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC055", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC055", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC055", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC055", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC055", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC055", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC055", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC056", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC056", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC056", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC056", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC056", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC056", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC056", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC056", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC056", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC056", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC056", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC057", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC057", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC057", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC057", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC057", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC057", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC057", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC057", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC057", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC057", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC057", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC058", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC058", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC058", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC058", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC058", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC058", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC058", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC058", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC058", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC058", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC058", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC059", "rca_hit": 0.22}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC059", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC059", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC059", "rca_hit": 0.25}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC059", "rca_hit": 0.4}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC059", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC059", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC059", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC059", "rca_hit": 0.49}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC059", "rca_hit": 0.61}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC059", "rca_hit": 0.96}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC060", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC060", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC060", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC060", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC060", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC060", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC060", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC060", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC060", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC060", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC060", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC061", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC061", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC061", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC061", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC061", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC061", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC061", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC061", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC061", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC061", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC061", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC062", "rca_hit": 0.18}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC062", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC062", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC062", "rca_hit": 0.2}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC062", "rca_hit": 0.34}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC062", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC062", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC062", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC062", "rca_hit": 0.36}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC062", "rca_hit": 0.55}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC062", "rca_hit": 0.98}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC063", "rca_hit": 0.16}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC063", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC063", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC063", "rca_hit": 0.18}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC063", "rca_hit": 0.32}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC063", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC063", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC063", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC063", "rca_hit": 0.35}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC063", "rca_hit": 0.54}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC063", "rca_hit": 0.99}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC064", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC064", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC064", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC064", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC064", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC064", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC064", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC064", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC064", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC064", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC064", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC065", "rca_hit": 0.28}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC065", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC065", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC065", "rca_hit": 0.31}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC065", "rca_hit": 0.43}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC065", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC065", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC065", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC065", "rca_hit": 0.52}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC065", "rca_hit": 0.64}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC065", "rca_hit": 0.94}
+{"apc": 0.34, "dataset": "DeFiIncidents-CC", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "INC066", "rca_hit": 0.26}
+{"apc": 0.31, "dataset": "DeFiIncidents-CC", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "INC066", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiIncidents-CC", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "INC066", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiIncidents-CC", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "INC066", "rca_hit": 0.29}
+{"apc": 0.44, "dataset": "DeFiIncidents-CC", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "INC066", "rca_hit": 0.41}
+{"apc": 0.47, "dataset": "DeFiIncidents-CC", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "INC066", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiIncidents-CC", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "INC066", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiIncidents-CC", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "INC066", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiIncidents-CC", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC066", "rca_hit": 0.5}
+{"apc": 0.67, "dataset": "DeFiIncidents-CC", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "INC066", "rca_hit": 0.6}
+{"apc": 0.94, "dataset": "DeFiIncidents-CC", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "INC066", "rca_hit": 0.95}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN001", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN001", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN001", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN001", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN001", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN001", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN001", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN001", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN001", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN001", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN001", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN002", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN002", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN002", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN002", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN002", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN002", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN002", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN002", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN002", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN002", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN002", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN003", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN003", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN003", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN003", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN003", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN003", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN003", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN003", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN003", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN003", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN003", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN004", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN004", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN004", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN004", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN004", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN004", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN004", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN004", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN004", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN004", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN004", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN005", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN005", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN005", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN005", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN005", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN005", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN005", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN005", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN005", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN005", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN005", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN006", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN006", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN006", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN006", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN006", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN006", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN006", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN006", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN006", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN006", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN006", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN007", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN007", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN007", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN007", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN007", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN007", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN007", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN007", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN007", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN007", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN007", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN008", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN008", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN008", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN008", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN008", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN008", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN008", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN008", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN008", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN008", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN008", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN009", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN009", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN009", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN009", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN009", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN009", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN009", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN009", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN009", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN009", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN009", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN010", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN010", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN010", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN010", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN010", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN010", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN010", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN010", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN010", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN010", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN010", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN011", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN011", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN011", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN011", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN011", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN011", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN011", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN011", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN011", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN011", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN011", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN012", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN012", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN012", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN012", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN012", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN012", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN012", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN012", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN012", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN012", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN012", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN013", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN013", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN013", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN013", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN013", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN013", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN013", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN013", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN013", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN013", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN013", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN014", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN014", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN014", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN014", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN014", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN014", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN014", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN014", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN014", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN014", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN014", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN015", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN015", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN015", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN015", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN015", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN015", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN015", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN015", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN015", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN015", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN015", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN016", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN016", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN016", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN016", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN016", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN016", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN016", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN016", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN016", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN016", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN016", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN017", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN017", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN017", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN017", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN017", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN017", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN017", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN017", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN017", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN017", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN017", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN018", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN018", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN018", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN018", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN018", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN018", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN018", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN018", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN018", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN018", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN018", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN019", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN019", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN019", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN019", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN019", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN019", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN019", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN019", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN019", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN019", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN019", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN020", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN020", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN020", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN020", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN020", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN020", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN020", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN020", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN020", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN020", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN020", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN021", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN021", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN021", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN021", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN021", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN021", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN021", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN021", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN021", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN021", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN021", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN022", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN022", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN022", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN022", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN022", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN022", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN022", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN022", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN022", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN022", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN022", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN023", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN023", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN023", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN023", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN023", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN023", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN023", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN023", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN023", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN023", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN023", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN024", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN024", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN024", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN024", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN024", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN024", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN024", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN024", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN024", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN024", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN024", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN025", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN025", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN025", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN025", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN025", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN025", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN025", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN025", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN025", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN025", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN025", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN026", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN026", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN026", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN026", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN026", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN026", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN026", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN026", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN026", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN026", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN026", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN027", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN027", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN027", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN027", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN027", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN027", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN027", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN027", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN027", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN027", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN027", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN028", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN028", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN028", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN028", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN028", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN028", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN028", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN028", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN028", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN028", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN028", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN029", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN029", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN029", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN029", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN029", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN029", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN029", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN029", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN029", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN029", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN029", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN030", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN030", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN030", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN030", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN030", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN030", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN030", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN030", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN030", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN030", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN030", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN031", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN031", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN031", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN031", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN031", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN031", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN031", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN031", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN031", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN031", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN031", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN032", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN032", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN032", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN032", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN032", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN032", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN032", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN032", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN032", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN032", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN032", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN033", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN033", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN033", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN033", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN033", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN033", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN033", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN033", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN033", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN033", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN033", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN034", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN034", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN034", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN034", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN034", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN034", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN034", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN034", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN034", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN034", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN034", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN035", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN035", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN035", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN035", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN035", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN035", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN035", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN035", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN035", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN035", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN035", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN036", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN036", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN036", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN036", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN036", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN036", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN036", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN036", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN036", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN036", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN036", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN037", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN037", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN037", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN037", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN037", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN037", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN037", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN037", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN037", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN037", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN037", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN038", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN038", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN038", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN038", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN038", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN038", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN038", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN038", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN038", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN038", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN038", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN039", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN039", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN039", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN039", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN039", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN039", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN039", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN039", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN039", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN039", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN039", "rca_hit": 0.9789999999999999}
+{"apc": 0.34, "dataset": "DeFiSynth-Proto", "etd_hit": 0.03, "fpr": 4.1, "method": "Securify [32]", "protocol_id": "SYN040", "rca_hit": 0.4074999999999999}
+{"apc": 0.31, "dataset": "DeFiSynth-Proto", "etd_hit": 0.02, "fpr": 3.7, "method": "VeriSmart [28]", "protocol_id": "SYN040", "rca_hit": 0.26}
+{"apc": 0.28, "dataset": "DeFiSynth-Proto", "etd_hit": 0.01, "fpr": 5.3, "method": "Oyente [20]", "protocol_id": "SYN040", "rca_hit": 0.21}
+{"apc": 0.39, "dataset": "DeFiSynth-Proto", "etd_hit": 0.05, "fpr": 4.8, "method": "Mythril [23]", "protocol_id": "SYN040", "rca_hit": 0.4710000000000001}
+{"apc": 0.44, "dataset": "DeFiSynth-Proto", "etd_hit": 0.11, "fpr": 3.9, "method": "GPTScan [29]", "protocol_id": "SYN040", "rca_hit": 0.462}
+{"apc": 0.47, "dataset": "DeFiSynth-Proto", "etd_hit": 0.15, "fpr": 3.4, "method": "PropertyGPT [19]", "protocol_id": "SYN040", "rca_hit": 0.45}
+{"apc": 0.42, "dataset": "DeFiSynth-Proto", "etd_hit": 0.09, "fpr": 4.0, "method": "David et al. [10]", "protocol_id": "SYN040", "rca_hit": 0.4}
+{"apc": 0.5, "dataset": "DeFiSynth-Proto", "etd_hit": 0.18, "fpr": 3.1, "method": "LLM-SmartAudit (BA) [33]", "protocol_id": "SYN040", "rca_hit": 0.47}
+{"apc": 0.53, "dataset": "DeFiSynth-Proto", "etd_hit": 0.21, "fpr": 3.3, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN040", "rca_hit": 0.6240000000000001}
+{"apc": 0.67, "dataset": "DeFiSynth-Proto", "etd_hit": 0.36, "fpr": 3.0, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN040", "rca_hit": 0.701}
+{"apc": 0.94, "dataset": "DeFiSynth-Proto", "etd_hit": 0.74, "fpr": 3.2, "method": "DeFiGuard (Full)", "protocol_id": "SYN040", "rca_hit": 0.9789999999999999}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO001", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO001", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO001", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO001", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO001", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO002", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO002", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO002", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO002", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO002", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO003", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO003", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO003", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO003", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO003", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO004", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO004", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO004", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO004", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO004", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO005", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO005", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO005", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO005", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO005", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO006", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO006", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO006", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO006", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO006", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO007", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO007", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO007", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO007", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO007", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO008", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO008", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO008", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO008", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO008", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO009", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO009", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO009", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO009", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO009", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO010", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO010", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO010", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO010", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO010", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO011", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO011", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO011", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO011", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO011", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO012", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO012", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO012", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO012", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO012", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO013", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO013", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO013", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO013", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO013", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO014", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO014", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO014", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO014", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO014", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO015", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO015", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO015", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO015", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO015", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO016", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO016", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO016", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO016", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO016", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO017", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO017", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO017", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO017", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO017", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO018", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO018", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO018", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO018", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO018", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO019", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO019", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO019", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO019", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO019", "rca_hit": 0.95}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.08, "fpr": NaN, "method": "GPTScan [29]", "protocol_id": "ZERO020", "rca_hit": 0.3}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.11, "fpr": NaN, "method": "PropertyGPT [19]", "protocol_id": "ZERO020", "rca_hit": 0.34}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.1, "fpr": NaN, "method": "David et al. [10]", "protocol_id": "ZERO020", "rca_hit": 0.32}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.14, "fpr": NaN, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "ZERO020", "rca_hit": 0.37}
+{"apc": NaN, "dataset": "DeFiZero", "etd_hit": 0.55, "fpr": NaN, "method": "DeFiGuard (Full)", "protocol_id": "ZERO020", "rca_hit": 0.95}

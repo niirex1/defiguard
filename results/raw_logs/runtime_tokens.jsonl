@@ -1,0 +1,132 @@
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC001", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC001", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC002", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC002", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC003", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC003", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC004", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC004", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC005", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC005", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC006", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC006", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC007", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC007", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC008", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC008", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC009", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC009", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC010", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC010", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC011", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC011", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC012", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC012", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC013", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC013", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC014", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC014", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC015", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC015", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC016", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC016", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC017", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC017", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC018", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC018", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC019", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC019", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC020", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC020", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC021", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC021", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC022", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC022", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC023", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC023", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC024", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC024", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC025", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC025", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC026", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC026", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC027", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC027", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC028", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC028", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC029", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC029", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC030", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC030", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC031", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC031", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC032", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC032", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC033", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC033", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 18, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC034", "tokens_k": 180}
+{"dataset": "DeFiIncidents-CC", "latency_min": 36, "method": "DeFiGuard (full)", "protocol_id": "INC034", "tokens_k": 240}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC035", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC035", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC036", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC036", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC037", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC037", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC038", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC038", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC039", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC039", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC040", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC040", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC041", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC041", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC042", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC042", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC043", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC043", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC044", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC044", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC045", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC045", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC046", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC046", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC047", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC047", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC048", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC048", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC049", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC049", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC050", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC050", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC051", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC051", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC052", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC052", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC053", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC053", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC054", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC054", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC055", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC055", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC056", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC056", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC057", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC057", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC058", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC058", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC059", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC059", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC060", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC060", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC061", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC061", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 30, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC062", "tokens_k": 250}
+{"dataset": "DeFiIncidents-CC", "latency_min": 50, "method": "DeFiGuard (full)", "protocol_id": "INC062", "tokens_k": 320}
+{"dataset": "DeFiIncidents-CC", "latency_min": 37, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC063", "tokens_k": 310}
+{"dataset": "DeFiIncidents-CC", "latency_min": 59, "method": "DeFiGuard (full)", "protocol_id": "INC063", "tokens_k": 390}
+{"dataset": "DeFiIncidents-CC", "latency_min": 45, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC064", "tokens_k": 400}
+{"dataset": "DeFiIncidents-CC", "latency_min": 70, "method": "DeFiGuard (full)", "protocol_id": "INC064", "tokens_k": 450}
+{"dataset": "DeFiIncidents-CC", "latency_min": 45, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC065", "tokens_k": 400}
+{"dataset": "DeFiIncidents-CC", "latency_min": 70, "method": "DeFiGuard (full)", "protocol_id": "INC065", "tokens_k": 450}
+{"dataset": "DeFiIncidents-CC", "latency_min": 45, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "INC066", "tokens_k": 400}
+{"dataset": "DeFiIncidents-CC", "latency_min": 70, "method": "DeFiGuard (full)", "protocol_id": "INC066", "tokens_k": 450}

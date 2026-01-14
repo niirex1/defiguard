@@ -1,0 +1,3 @@
+method,contract_analysis,llm_calls,graph_build_query,sequence_exploration,replay_simulation
+LLM-SmartAudit (TA) [33],12,6,0,0,0
+DeFiGuard (full),0,0,12,16,8

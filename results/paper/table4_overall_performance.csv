@@ -1,0 +1,12 @@
+Method,RCA,ETD,APC,FPR
+David et al. [10],0.4,0.09,0.42,4.0
+DeFiGuard (Full),0.97,0.74,0.94,3.2
+DeFiGuard (protocol-only),0.63,0.36,0.67,3.0
+GPTScan [29],0.41,0.11,0.44,3.9
+LLM-SmartAudit (BA) [33],0.47,0.18,0.5,3.1
+LLM-SmartAudit (TA) [33],0.51,0.21,0.53,3.3
+Mythril [23],0.33,0.05,0.39,4.8
+Oyente [20],0.21,0.01,0.28,5.3
+PropertyGPT [19],0.45,0.15,0.47,3.4
+Securify [32],0.29,0.03,0.34,4.1
+VeriSmart [28],0.26,0.02,0.31,3.7

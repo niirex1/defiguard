@@ -1,0 +1,15 @@
+# Default parameters for the DeFiGuard artifact (used for minimal reproduction).
+seed: 7
+
+search:
+  Tmax: 4          # maximum depth (transactions) in search sequences
+  B: 250           # exploration budget (number of expansions)
+
+scoring:
+  w_violation: 0.45
+  w_profit: 0.45
+  w_complexity: 0.10
+
+llm:
+  provider: "mock"   # artifact ships with a deterministic mock; swap to your own provider if desired
+  temperature: 0.0

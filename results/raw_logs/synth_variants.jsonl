@@ -1,0 +1,480 @@
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN001", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN001", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN002", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN002", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN003", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN003", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN004", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN004", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN005", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN005", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN006", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN006", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN007", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN007", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN008", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN008", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN009", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN009", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN010", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN010", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN011", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN011", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN012", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN012", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN013", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN013", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN014", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN014", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN015", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN015", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN016", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN016", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN017", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN017", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN018", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN018", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN019", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN019", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN020", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN020", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN021", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN021", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN022", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN022", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN023", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN023", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN024", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN024", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN025", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN025", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN026", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN026", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN027", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN027", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN028", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN028", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN029", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN029", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN030", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN030", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN031", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN031", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN032", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN032", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN033", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN033", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN034", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN034", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN035", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN035", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN036", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN036", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN037", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN037", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN038", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN038", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN039", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN039", "variant": "multi-block"}
+{"etd_hit": 0.18, "method": "Mythril [23]", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.04, "method": "Mythril [23]", "protocol_id": "SYN040", "variant": "multi-block"}
+{"etd_hit": 0.29, "method": "GPTScan [29]", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.1, "method": "GPTScan [29]", "protocol_id": "SYN040", "variant": "multi-block"}
+{"etd_hit": 0.32, "method": "PropertyGPT [19]", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.13, "method": "PropertyGPT [19]", "protocol_id": "SYN040", "variant": "multi-block"}
+{"etd_hit": 0.35, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.17, "method": "LLM-SmartAudit (TA) [33]", "protocol_id": "SYN040", "variant": "multi-block"}
+{"etd_hit": 0.51, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.33, "method": "DeFiGuard (protocol-only)", "protocol_id": "SYN040", "variant": "multi-block"}
+{"etd_hit": 0.58, "method": "DeFiGuard (full)", "protocol_id": "SYN040", "variant": "atomic"}
+{"etd_hit": 0.39, "method": "DeFiGuard (full)", "protocol_id": "SYN040", "variant": "multi-block"}

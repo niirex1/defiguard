@@ -1,0 +1,8 @@
+protocol_type,protocols,incidents,median_contracts_per_attack
+AMMs / DEXes,10,18,4.0
+Lending / borrowing,8,16,5.0
+Stablecoins,4,7,6.0
+Yield aggregators,6,11,5.0
+Liquid staking,3,5,4.0
+"Other DeFi (derivatives, options)",5,9,5.0
+Total,36,66,5.0

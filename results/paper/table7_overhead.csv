@@ -1,0 +1,3 @@
+Method,Latency_median_min,Latency_95th_min,Tokens_median_k,Tokens_95th_k
+DeFiGuard (full),36,59,240,390
+LLM-SmartAudit (TA) [33],18,37,180,310
