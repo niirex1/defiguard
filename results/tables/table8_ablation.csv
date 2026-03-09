@@ -1,4 +1,7 @@
 Variant,RCA,ETD
 Single-agent,0.55,0.29
 No economic agent,0.61,0.33
+No replay gating,0.78,0.37
+No attack-family hints,0.88,0.46
+DeFiGuard + external hints,0.96,0.56
 DeFiGuard (full),0.95,0.54

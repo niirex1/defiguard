@@ -1,0 +1,3 @@
+Method,Latency_Median_min,Latency_95th_min,Tokens_Median_k,Tokens_95th_k,Replay_calls,Cost_per_ETD_USD
+LLM-SmartAudit (TA),18,37,180,310,,
+DeFiGuard (full),36,59,240,390,74,5.80
