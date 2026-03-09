@@ -1,4 +1,4 @@
-# DeFiGuard (CCS Artifact)
+# DeFiGuard (Artifact)
 
 This repository contains the **artifact bundle** for the DeFiGuard paper, *“DeFiGuard: An Advanced Multi-Agent System for Cross-Contract Vulnerability Detection in DeFi Protocols.”*  
 It is designed for **deterministic, reviewer-centric reproduction** of the paper’s reported tables and figures from the included CSV datasets and raw evaluation logs.
